@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RX Java MVP</string>
+    <string name="empty_log">Empty Log</string>
+    <string name="reload_log">Reload Log</string>
+</resources>
